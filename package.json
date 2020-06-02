@@ -1,0 +1,22 @@
+{
+  "name": "rt_functionality_test",
+  "version": "1.0.0",
+  "description": "Test functionality of new RTSTRUCT in the OHIF viewer",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "OHIF",
+    "RTSTRUCT"
+  ],
+  "author": "Madelyn G. Reyes",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^4.5.0",
+    "prettier": "^2.0.5"
+  }
+}
